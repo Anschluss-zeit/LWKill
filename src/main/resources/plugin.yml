@@ -1,0 +1,11 @@
+name: LWKill
+version: '${project.version}'
+main: tk.lwgame.LWKill
+api-version: 1.16
+prefix: LWKill
+authors: [ Anschluss_zeit ]
+description: LWKill
+commands:
+  lwk:
+    description: "Main Command of LWKill"
+    usage: "参数错误，执行/lwk help查看帮助"
